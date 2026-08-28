@@ -1,12 +1,12 @@
 {
     "id": "bearcraft",
     "name": "BearCraft Network",
-    "store": "https://tienda.bearcraft.es/",
+    "store": "https://tienda.bearcraft.fun/",
     "description": "Spanish-speaking Minecraft network focused on Survival OP, PvP",
     "addresses": [
-        "bearcraft.es"
+        "bearcraft.fun"
     ],
-    "primaryAddress": "bearcraft.es",
+    "primaryAddress": "bearcraft.fun",
     "primaryColor": "#FFD700",
     "secondaryColor": "#1A1A1A",
     "minecraftVersions": [
